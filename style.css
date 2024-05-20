@@ -179,7 +179,7 @@ html, body{
     width: 200px;
 }
 .notes::before{
-    content: "Valentine";
+    content: "Birthday";
     top: 30px;
     color: #d04e4e;
     font-family: "protest riot",sans-serif;
