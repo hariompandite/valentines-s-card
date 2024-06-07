@@ -22,7 +22,7 @@ html, body{
     border-radius: 10px;
     width: 210px;
     height: 300px;
-    background-image: url("/shr.jpg");
+    background-image: url("./shr.jpg");
     background-size: cover;
     background-position: center;
     background-size: 97%;
